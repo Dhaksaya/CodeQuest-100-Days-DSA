@@ -1,0 +1,1 @@
+print("Decimal:",int(input("Enter binary number: "),2))

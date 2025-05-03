@@ -1,0 +1,11 @@
+hey this side abhishek,. you need to wrtie your code in this folder only. kindly complete reamining days codes.
+
+Now i will show you how to update your code on our platform
+
+step 1: create your file inside this folder your name folder, you may rename the folder with your name no issues
+step 2: go on github push the file
+step 3: create pull request 
+
+
+
+Is that clear Vaishnavi ? Yes sir cool  let me show you

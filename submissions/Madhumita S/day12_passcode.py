@@ -1,0 +1,1 @@
+for i in range(0,int(input("Enter N: "))):print("ACCESS GRANTED")

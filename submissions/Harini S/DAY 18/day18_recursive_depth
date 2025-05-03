@@ -1,0 +1,11 @@
+#type:ignore
+try:
+    lis=eval(input("enter input: "))
+    def depth(maze):
+        if isinstance(maze,list):
+            return 1+max((depth(item) for item in maze),default=0)
+        return 0
+    print(depth(lis))
+except(SyntaxError,NameError):print("The given input is not a proper list.")
+    
+    

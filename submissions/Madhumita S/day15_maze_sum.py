@@ -1,0 +1,1 @@
+print("Secret code:",sum(list(map(int,input("Enter numbers: ").split()))))
